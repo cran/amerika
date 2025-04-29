@@ -1,7 +1,7 @@
 Package: amerika
 Type: Package
 Title: American Politics-Inspired Color Palette Generator
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: person("Philip", "Waggoner", role = c("aut", "cre"),
     email = "philip.waggoner@gmail.com", comment = c(ORCID = "0000-0002-7825-7573"))
 Maintainer: Philip Waggoner <philip.waggoner@gmail.com>
@@ -13,10 +13,9 @@ Description: A color palette generator inspired by American politics, with color
     package greatly benefitted from building on the source code (with permission) from Ram and Wickham (2015).
 License: MIT + file LICENSE
 Encoding: UTF-8
-LazyData: true
 RoxygenNote: 6.1.1
 NeedsCompilation: no
-Packaged: 2019-05-02 13:27:05 UTC; bpwaggo
+Packaged: 2025-04-29 17:13:21 UTC; philipwaggoner
 Author: Philip Waggoner [aut, cre] (<https://orcid.org/0000-0002-7825-7573>)
 Repository: CRAN
-Date/Publication: 2019-05-03 15:20:21 UTC
+Date/Publication: 2025-04-29 17:40:11 UTC
